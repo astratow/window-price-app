@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Standard Window",
+      "type": "window",
+      "basePrice": 100,
+      "options": {
+        "sizes": [
+          {"name": "Small", "price": 0},
+          {"name": "Medium", "price": 50},
+          {"name": "Large", "price": 100}
+        ],
+        "glassTypes": [
+          {"name": "Clear", "price": 0},
+          {"name": "Frosted", "price": 20},
+          {"name": "Tinted", "price": 30}
+        ],
+        "frames": [
+          {"name": "White uPVC", "price": 0},
+          {"name": "Wood Effect", "price": 50},
+          {"name": "Aluminum", "price": 75}
+        ]
+      }
+    }
+  ]
+}
