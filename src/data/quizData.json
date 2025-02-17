@@ -1,0 +1,44 @@
+{
+    "questions": [
+      {
+        "id": "category",
+        "text": "What type of glass product are you looking for?",
+        "options": [
+          { "id": "doors", "text": "Doors" },
+          { "id": "windows", "text": "Windows" },
+          { "id": "other", "text": "Other" }
+        ]
+      },
+      {
+        "id": "doors",
+        "text": "What type of door are you interested in?",
+        "options": [
+          { "id": "upvc", "text": "UPVC" },
+          { "id": "flush", "text": "Flush" },
+          { "id": "french", "text": "French" },
+          { "id": "sliding_patio", "text": "Sliding Patio" },
+          { "id": "bi_fold", "text": "Bi-fold" }
+        ]
+      },
+      {
+        "id": "windows",
+        "text": "What type of window are you looking for?",
+        "options": [
+          { "id": "standard", "text": "Standard" },
+          { "id": "french", "text": "French" },
+          { "id": "tilt_turn", "text": "Tilt & Turn" },
+          { "id": "flush", "text": "Flush" },
+          { "id": "sash", "text": "Sash" }
+        ]
+      },
+      {
+        "id": "other",
+        "text": "What other glass product are you interested in?",
+        "options": [
+          { "id": "skylights", "text": "Skylights & Lanterns" },
+          { "id": "glass_units", "text": "Glass Units" },
+          { "id": "extras", "text": "Extras" }
+        ]
+      }
+    ]
+  }
